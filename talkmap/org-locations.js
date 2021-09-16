@@ -1,18 +1,38 @@
 var addressPoints = [
-  [
-    "Berkeley CA, USA",
-    37.8708393,
+     [
+    "West Lafayette, Indiana",
+    40.4259,
+    -86.9081
+    ],
+    [
+    "Shanghai, China",
+    31.2304,
+    121.4737
+    ],
+    [
+    "Lake Buena Vista, Florida",
+    23.1123,
+    -81.5261
+    ],
+    [
+    "Lake Buena Vista, Florida",
+    28.3695,
     -122.2728638
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Huizhou, China",
+    23.1123,
+    114.4158
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Xuzhou, China",
+    34.2058,
+    117.2841
+  ],
+  [
+    "Waterloo, Canada",
+    43.4643,
+    -80.5204
   ],
   [
     "Florence, Italy",
