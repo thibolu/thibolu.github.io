@@ -1,5 +1,5 @@
 ---
-title: "CoCoNuT: Combining Context-Aware Neural Translation Models Using Ensemble for Program Repair"
+title: "Neural Machine Translation for Automatic Program Repair"
 collection: talks
 type: "guest lecture"
 permalink: 
