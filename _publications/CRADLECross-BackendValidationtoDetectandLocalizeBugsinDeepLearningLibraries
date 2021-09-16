@@ -1,0 +1,10 @@
+---
+title: "CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries"
+collection: publications
+permalink: 
+excerpt: 
+date: 2019-05-25
+venue: '2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8812095'
+citation: 'Pham, H. V., Lutellier, T., Qi, W., & Tan, L. (2019, May). CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE) (pp. 1027-1038). IEEE.'
+---
