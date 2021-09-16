@@ -1,9 +1,9 @@
 ---
-title: "CoCoNuT: Combining Context-Aware Neural Translation Models Using Ensemble for Program Repair"
+title: "Machine Learning for Software Dependability"
 collection: talks
-type: "talk"
+type: "thesis defense"
 permalink: 
-venue: "Midwest PL Summit"
-date: 2020-09-05
-location: "Remote"
+venue: "University of Waterloo"
+date: 2020-10-07
+location: "Waterloo, Canada"
 ---
