@@ -1,0 +1,10 @@
+---
+title: "CoCoNuT: Combining Context-Aware Neural Translation Models Using Ensemble for Program Repair"
+collection: publications
+permalink: 
+excerpt: 
+date: 2013-06-19
+venue: '29th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)'
+paperurl: 'https://dl.acm.org/doi/10.1145/3395363.3397369'
+citation: 'Lutellier, T., Pham, H. V., Pang, L., Li, Y., Wei, M., & Tan, L. (2020, July). Coconut: combining context-aware neural translation models using ensemble for program repair. In Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis (pp. 101-114).
+---
