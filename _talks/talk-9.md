@@ -4,6 +4,6 @@ collection: talks
 type: "guest lecture"
 permalink: 
 venue: "Purdue University"
-date: 2021-09-17
+date: 2021-09-7
 location: "Remote"
 ---
