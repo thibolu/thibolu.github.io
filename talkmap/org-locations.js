@@ -11,13 +11,8 @@ var addressPoints = [
     ],
     [
     "Lake Buena Vista, Florida",
-    23.1123,
-    -81.5261
-    ],
-    [
-    "Lake Buena Vista, Florida",
     28.3695,
-    -122.2728638
+    -81.5261
   ],
   [
     "Huizhou, China",
