@@ -12,7 +12,24 @@ I am a PostDoc Fellow working with Prof. Lin Tan in the Department of Electrical
 
 News
 ======
-I'm finishing my Post Doc Fellowship in December and am actively looking for academic opportunities.
+I'm finishing my Post Doc Fellowship in December and am actively looking for academic opportunities. My academic package is available here.
+
+
+Research Interests
+======
+
 
 Recent Publications
 ======
+
+
+Selected Awards and Recognitions
+======
+
+
+Recent Professional Service
+======
+
+Education
+======
+
