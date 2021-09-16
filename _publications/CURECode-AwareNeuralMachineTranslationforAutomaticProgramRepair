@@ -1,0 +1,10 @@
+ ---
+title: "CURE: Code-Aware Neural Machine Translation for Automatic Program Repair"
+collection: publications
+permalink: 
+excerpt: 
+date: 2021-05-02
+venue: '2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)'
+paperurl: 'https://arxiv.org/abs/2103.00073'
+citation: 'Jiang, N., Lutellier, T., & Tan, L. (2021, May). CURE: Code-Aware Neural Machine Translation for Automatic Program Repair. In 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE) (pp. 1161-1173). IEEE.'
+---
