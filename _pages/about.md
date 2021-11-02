@@ -21,6 +21,9 @@ Automatic program repair, AI for software engineering, Fairness and AI testing, 
 
 Recent Publications
 ======
+
+*Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training*. Shangshu Qian, Hung Viet Pham, Thibaud Lutellier, Zeou Hu, Jungwon Kim, Lin Tan, Yaoliang Yu, Jiahao Chen, and Sameena Shah, NeurIPS-21 (Acceptance Rate: 26%)
+
 *CURE: Code-Aware Neural Machine Translation for Automatic Program Repair*. Nan Jiang, Thibaud Lutellier, and Lin Tan, ICSE-21 (Acceptance Rate: 22%)
 
 *Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance*. Hung Viet Pham, Shangshu Qian, Jiannan Wang, Thibaud Lutellier, Jonathan Rosenthal, Lin Tan, Yaoliang Yu, and Nachiappan Nagappan, ASE-20 (Acceptance Rate: 22.5%) **Won ACM SIGSOFT Distinguished Paper Award!**
