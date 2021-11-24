@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc Fellow working with Prof. Lin Tan in the Department of Electrical and Computer Engineering at University of Waterloo. My research interests include automatic program repair, AI for software engineering, Fairness and AI testing, defect prediction and software engineering. My CV is available <a href="files/CV.pdf">here</a>, my research statement is <a href="files/Research_Statement.pdf">here</a>, my teaching statement is available <a href="files/Teaching_Statement.pdf">here</a>, and my EDI statement is  <a href="files/Diversity_Statement.pdf">here</a>.
+I am a PostDoc Fellow working with Prof. Lin Tan in the Department of Electrical and Computer Engineering at University of Waterloo. My research interests include automatic program repair, AI for software engineering, Fairness and AI testing, defect prediction and software engineering. My CV is available <a href="files/CV.pdf">here</a>, my research statement is <a href="files/Research_Statement.pdf">here</a>, my teaching statement is available <a href="../files/Teaching_Statement.pdf">here</a>, and my EDI statement is  <a href="files/Diversity_Statement.pdf">here</a>.
 
 News
 ======
